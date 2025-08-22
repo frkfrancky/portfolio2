@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio2/static/css/main.fda85280.css",
+    "main.js": "/portfolio2/static/js/main.9d3a8e83.js",
+    "static/js/453.ffd317f4.chunk.js": "/portfolio2/static/js/453.ffd317f4.chunk.js",
+    "static/media/za.png": "/portfolio2/static/media/za.6646a52f16143301fa4c.png",
+    "static/media/Poppins-Medium.ttf": "/portfolio2/static/media/Poppins-Medium.b59f6a636397975c5409.ttf",
+    "static/media/impact.ttf": "/portfolio2/static/media/impact.0294f8285a2493417c09.ttf",
+    "static/media/Roasted Chicken.ttf": "/portfolio2/static/media/Roasted Chicken.bf995876c2a364bf0c11.ttf",
+    "static/media/question_mark.svg": "/portfolio2/static/media/question_mark.bc26c9550cab5694b75d26037e535b94.svg",
+    "static/media/Logo_Emit.svg": "/portfolio2/static/media/Logo_Emit.7202c303173d9c749699f571fb17d7a0.svg",
+    "static/media/idea.svg": "/portfolio2/static/media/idea.181e0d690df75fd9741c4032037674df.svg",
+    "index.html": "/portfolio2/index.html",
+    "main.fda85280.css.map": "/portfolio2/static/css/main.fda85280.css.map",
+    "main.9d3a8e83.js.map": "/portfolio2/static/js/main.9d3a8e83.js.map",
+    "453.ffd317f4.chunk.js.map": "/portfolio2/static/js/453.ffd317f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda85280.css",
+    "static/js/main.9d3a8e83.js"
+  ]
+}
